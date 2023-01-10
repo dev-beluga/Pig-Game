@@ -16,7 +16,7 @@ Finally, the player which reaches 100 will win the game.
 
 ## How can I play?
 
-Oh it's simple, really, just follow [this 🐷 link](https://javpet.github.io/The-Pig-Game/).
+Oh it's simple, really, just follow [this 🐷 link](https://pig-game-ag40.onrender.com/).
 
 ![image](https://user-images.githubusercontent.com/56386562/211483821-25166147-ab58-48fa-892d-d9309e8e7c50.png)
 
